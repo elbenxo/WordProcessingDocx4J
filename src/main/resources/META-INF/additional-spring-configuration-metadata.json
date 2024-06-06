@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "template.templateUrlString",
+    "type": "java.lang.String",
+    "description": "route where the file is located 'template.url'"
+  },
+  {
+    "name": "template.pdfPathUrl",
+    "type": "java.lang.String",
+    "description": "output route 'template.PDFUrl'"
+  }
+]}
