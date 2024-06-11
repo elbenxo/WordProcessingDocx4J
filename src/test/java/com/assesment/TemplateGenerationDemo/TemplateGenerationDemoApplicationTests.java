@@ -11,17 +11,9 @@ class TemplateGenerationDemoApplicationTests {
 
 	@Autowired
 	WordGenerationService wordGenerationService;
-
-
-
 	@Test
 	void contextLoads() {
-
-		wordGenerationService.executeOperation();
-	
+		wordGenerationService.executeOperation();	
 	}
-
-
-
 
 }
